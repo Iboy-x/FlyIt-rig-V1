@@ -1,6 +1,6 @@
 # 🛫 FlyIt Rig V1
 
-![project-banner](https://your-image-url-here.com) <!-- Replace this with your own screenshot or render -->
+
 
 **FlyIt Rig V1** is a DIY, USB-compatible flight yoke + throttle + pedal brake system made for **Microsoft Flight Simulator 2025**. The goal is to build a complete, realistic flight control rig — using affordable parts, Arduino, custom 3D prints, and pure ✨ sweat + logic ✨.
 
