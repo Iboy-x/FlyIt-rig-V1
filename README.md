@@ -89,7 +89,8 @@ More design references and files will be added as I build & iterate.
 
 ## 📸 Images & Progress
 
-> Coming soon! Will upload build photos, CAD previews, and action shots as progress is made. Stay tuned 👀
+![image](https://github.com/user-attachments/assets/481bfb7f-b605-4af2-affe-4fbb3a4bdffc)
+> more coming soon :)
 
 ---
 
@@ -100,4 +101,4 @@ MIT — feel free to remix and build your own FlyIt Rig! Just don’t forget to 
 ---
 
 ### ✈️ Wheels up, dreams up.
-> Made by [@moiz-codes](https://github.com/iboy-x) · Hack Clubber · Pilot in progress · Builder for life
+> Made by [@AbdulMoiz](https://github.com/iboy-x) · Hack Clubber · Pilot in progress · Builder for life
