@@ -1,6 +1,6 @@
 # 🛠️ JOURNAL.md
 
-## 🗓️ May 20, 2025
+## 🗓️ May 20, 2025 (started)
 
 ### ✅ What I Did
 - Finalized the project idea for **FlyIt Rig V1** — a DIY flight controller for MSFS 2025
@@ -50,3 +50,28 @@
 
 ### 🔜 Next Up
 - Finish detailed yoke model (there are still lots of things :( ) 
+---
+
+## 🗓️ May 29, 2025 (Entry #3 - Yoke Design Phase)
+yeah ik its after a long time i was having exams :c
+![Screenshot 2025-05-29 154423](https://github.com/user-attachments/assets/a5c94891-a6a3-46eb-91ca-e50956b0bbc4)
+![Screenshot 2025-05-29 154209](https://github.com/user-attachments/assets/7e946957-6822-40b6-87d6-e1e3f56cd66c)
+
+
+
+
+### ✅ What I Did
+- Did more working on the **Yoke mechanism CAD design**
+- figured how can i attach yoke to bearings and make it move. 
+
+### ⏱️ Time Spent
+~ 4.5 hours 
+
+### 📚 What I Learned / Struggled With
+- It was very difficult :( learnd legit a lot of things about mechanical parts and tried to attach them to each other.
+- struggle alot with it and thats what i learned 
+
+---
+
+### 🔜 Next Up
+- more work on Yoke mechanism left.  
