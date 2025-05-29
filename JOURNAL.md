@@ -56,7 +56,7 @@
 yeah ik its after a long time i was having exams :c
 ![Screenshot 2025-05-29 154423](https://github.com/user-attachments/assets/a5c94891-a6a3-46eb-91ca-e50956b0bbc4)
 ![Screenshot 2025-05-29 154209](https://github.com/user-attachments/assets/7e946957-6822-40b6-87d6-e1e3f56cd66c)
-
+![image](https://github.com/user-attachments/assets/c160b14d-235b-4680-9d65-0edde4880657)
 
 
 
@@ -74,4 +74,5 @@ yeah ik its after a long time i was having exams :c
 ---
 
 ### 🔜 Next Up
+- have to make a enclosure where i can fit that shaft 
 - more work on Yoke mechanism left.  
