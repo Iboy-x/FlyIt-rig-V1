@@ -59,7 +59,6 @@ yeah ik its after a long time i was having exams :c
 ![image](https://github.com/user-attachments/assets/c160b14d-235b-4680-9d65-0edde4880657)
 
 
-
 ### ✅ What I Did
 - Did more working on the **Yoke mechanism CAD design**
 - figured how can i attach yoke to bearings and make it move. 
@@ -75,4 +74,33 @@ yeah ik its after a long time i was having exams :c
 
 ### 🔜 Next Up
 - have to make a enclosure where i can fit that shaft 
-- more work on Yoke mechanism left.  
+- more work on Yoke mechanism left.
+
+---
+
+
+## 🗓️ June 5 2025 (Entery #4 Yoke design done :) 
+It was again after a very very long time sorry i was again occupied with papers and stuff and locked in in building! 
+![image](https://github.com/user-attachments/assets/3544b70f-6d5a-4356-a285-f6080d14f4b1)
+![image](https://github.com/user-attachments/assets/77ae52e7-0a69-4517-a92c-c046c59638ac)
+
+
+### ✅ What I Did
+- completed the Yoke mechanism finally and also update the `Yoke` folder in guthub 
+- assembled all the things together in fusion.
+
+### ⏱️ Time Spent
+~15 hours it was like during the two weeks i cant update my journal in beween. 
+
+### 📚 What I Learned / Struggled With
+- I used few pre built models for the parts i can find as per my requirement.
+- Assembling all the things together got me it was terrible have to change all the designs again and again to adjust.
+- I am pretty good now in 3D modelling
+
+---
+
+### 🚀 Next Up:
+- Begin CAD for the **Controller** like cessna 
+- hace to make a rough sketch first.
+
+---
