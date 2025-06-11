@@ -104,3 +104,39 @@ It was again after a very very long time sorry i was again occupied with papers 
 - hace to make a rough sketch first.
 
 ---
+
+## 🗓️ June 11 2025 (Entery #5 startede :) 
+Finally onto the next stage :
+Base of controller :
+
+![image](https://github.com/user-attachments/assets/93dc15af-2ec9-4724-958d-8dfb31cf2613)
+
+buttons top:
+
+
+![image](https://github.com/user-attachments/assets/0ebd2643-c119-4423-833e-270ec53c06e0)
+
+Leverr: 
+
+![image](https://github.com/user-attachments/assets/4504f1e5-ba0b-4bea-b241-9cad33aa6918)
+
+
+### ✅ What I Did
+- Started the Controller Mechanism CAD and made the `Controller` folder in repo
+- completed almost all the parts except for 
+
+### ⏱️ Time Spent
+~ 9 hours it was like during few days. 
+
+### 📚 What I Learned / Struggled With
+- Struggle with first designing the main part hw many lever should be there how could the levers work and things
+- It was smth actually difficult to make mechanism for ez for CAD lol. (I almost crash out) 
+- Finally added 3 levers like cessna 
+
+
+---
+
+### 🚀 Next Up:
+- have to complete controller design and also assemble them together 😭😭
+
+---
