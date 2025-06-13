@@ -140,3 +140,34 @@ Leverr:
 - have to complete controller design and also assemble them together 😭😭
 
 ---
+
+## 🗓️ June 13 2025 (Entery #6 Controller Box DONNNE :) 
+Finally Completed the controller box.
+
+working insight: 
+
+![image](https://github.com/user-attachments/assets/c2cca79d-d67d-4071-a0b2-9d783ae5adc3)
+
+Assembled:
+
+![image](https://github.com/user-attachments/assets/836b120d-6041-4fc4-9f44-087a893f640a)
+
+![image](https://github.com/user-attachments/assets/cf39ee36-b845-45ef-b2c0-4e7b460e91eb)
+
+
+### ✅ What I Did
+- Completed all the parts for Controller and assembled it !! 
+- Another part of my project is completed.
+
+### ⏱️ Time Spent
+~ 5 hours  
+
+### 📚 What I Learned / Struggled With
+- It was a pretty easy thing so nothing much struggle this time just copy pasting elements twice.
+
+---
+
+### 🚀 Next Up:
+- Move onto the `Padel` system and them coddddeeeeee it 
+
+---
