@@ -1,4 +1,5 @@
 # 🛫 FlyIt Rig V1
+![FlyIt Logo](https://github.com/user-attachments/assets/ac3ac454-0e68-446e-ac88-9f14c3ee13fb)
 
 
 
