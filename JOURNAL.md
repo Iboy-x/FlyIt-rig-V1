@@ -171,3 +171,19 @@ Assembled:
 - Move onto the `Padel` system and them coddddeeeeee it 
 
 ---
+
+## 🗓️ June 14 2025 (Entery #7 A LOGO and design ) 
+I made a logo and CAD for it :) 
+![image](https://github.com/user-attachments/assets/1f09b7b1-fde5-4ac4-809c-612cdb74e381)
+
+### ✅ What I Did
+- made the `logo` folder for it to upload png and stl of logo 
+- A major thing added out of the box tho. 
+
+### ⏱️ Time Spent
+~ 1 hour
+
+### 🚀 Next Up:
+- Move onto the `Padel` system I make sure i will  
+
+---
