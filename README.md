@@ -82,7 +82,7 @@ More design references and files will be added as I build & iterate.
 
 > ✅ Proposal submitted on Pitstop  
 > 🚧 Hardware sourcing ongoing  
-> 🔜 CAD design for yoke under construction  
+> 🔜 CAD design for yoke and controller done
 > 🔜 First prototype in progress
 
 ---
@@ -90,6 +90,15 @@ More design references and files will be added as I build & iterate.
 ## 📸 Images & Progress
 
 ![image](https://github.com/user-attachments/assets/481bfb7f-b605-4af2-affe-4fbb3a4bdffc)
+
+Yoke Render Desing: 
+
+![image](https://github.com/user-attachments/assets/c110dc5f-c8e8-4ef3-b5e3-f36d6951dc5a)
+
+Controller Render: 
+
+![image](https://github.com/user-attachments/assets/06932a88-223d-404a-89a9-cbdcd59c7c43)
+
 > more coming soon :)
 
 ---
