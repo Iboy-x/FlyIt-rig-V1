@@ -181,9 +181,35 @@ I made a logo and CAD for it :)
 - A major thing added out of the box tho. 
 
 ### ⏱️ Time Spent
-~ 1 hour
+~ 15 mins for cad and 45 mins for designing it :\ 
 
 ### 🚀 Next Up:
-- Move onto the `Padel` system I make sure i will  
+- Move onto the `Padel` system !!!!
+
+---
+
+
+## 🗓️ June 15 2025 (Entery #8 Finally padels half way done !  ) 
+finally started working on padels and stuff took inspo for mechanism from this: https://www.youtube.com/watch?v=vinw3yeDGUQ
+
+![image](https://github.com/user-attachments/assets/79bfc379-991f-4bc5-a37b-ffdb74cdb8b3)
+
+
+
+### ✅ What I Did
+- made the CAD for padels, Padels holder and potentiometer holder 
+- made the folder for `pedals` and added files that i worked on today and yesterday.
+- ALso I used few previous models like edited them a bit.
+
+### ⏱️ Time Spent
+~ 5.5 hour approx 
+
+### 🚀 Next Up:
+- complete pedal system and move onto code (I cant w8 to comlete it ) 
+
+---
+
+
+> I saw a lil bit lacking in journal like how the potentiometers and where which part will be used that i will be buysing thi swill ensure that i am buying right quantity and thing so will be updating it soon by night
 
 ---
