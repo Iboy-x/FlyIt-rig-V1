@@ -210,6 +210,23 @@ finally started working on padels and stuff took inspo for mechanism from this: 
 ---
 
 
-> I saw a lil bit lacking in journal like how the potentiometers and where which part will be used that i will be buysing thi swill ensure that i am buying right quantity and thing so will be updating it soon by night
+> I saw a lil bit lacking in journal 😭 like how the potentiometers and where which part will be used that i will be buysing thi swill ensure that i am buying right quantity and thing so will be updating it soon by night
 
 ---
+
+## Here which material will be used where is mentioned 😤!
+
+### Yoke: 
+- 2x 42*30*7 bearings for yoke holder
+- mounting hubs 6mm  for potentiometer holder 
+- 2x potentiometer for recognising movements
+- 2x 8mm x 200mm Steel Rod for yoke movement
+- 2x puch buttons for yoke handle. 
+- 2x Almunium angles rod (forgot to add these initially)
+- Linear bearing 8mm*45mm (realized i have selected smaller one) 
+
+ ### Controller:
+  - 3x potentiometer for each lever
+  - few toggle buttons
+  - few leds
+  - few push buttons 
