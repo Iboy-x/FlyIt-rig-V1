@@ -274,3 +274,36 @@ I wrote the code verify it by AI to make sure it will work with potentiometer an
 
 ---
 
+## Schematics worked
+
+## 🧰 Wiring Table – Arduino Micro Pinout for FlyIt Rig V1
+
+### 🎮 Analog Inputs (Potentiometers)
+
+| Function               | Arduino Pin | Component      | Notes                             |
+|------------------------|-------------|----------------|-----------------------------------|
+| Yoke Pitch             | A0          | Potentiometer  | Forward/Back                      |
+| Yoke Roll              | A1          | Potentiometer  | Left/Right                        |
+| Throttle               | A2          | Potentiometer  | Engine power                      |
+| Extra Axis 1           | A3          | Potentiometer  | Flaps, Mixture, etc.              |
+| Yaw / Rudder Pedals    | A8          | Potentiometer  | Twist handle or pedal input       |
+| Extra Axis 2 / Brakes  | A9          | Potentiometer  | Could be brake pedal or trim      |
+
+### 🕹️ Digital Inputs (Buttons & Switches)
+
+| Button # | Arduino Pin | Type          | Suggested Use            |
+|----------|-------------|---------------|---------------------------|
+| 0        | 2           | Pushbutton     | Landing Gear              |
+| 1        | 3           | Pushbutton     | Autopilot ON/OFF          |
+| 2        | 4           | Pushbutton     | Flaps Down                |
+| 3        | 5           | Toggle Switch  | Magnetos or Lights        |
+| 4        | 6           | Pushbutton     | Trim Reset or Spoilers    |
+| 5        | 7           | Toggle Switch  | Battery Master or Avionics|
+
+### ⚡ Power Lines
+
+| Power Line | Connects To                                |
+|------------|---------------------------------------------|
+| 5V         | One side of all potentiometers              |
+| GND        | Other side of potentiometers and all buttons|
+
