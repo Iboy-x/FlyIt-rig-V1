@@ -230,3 +230,26 @@ finally started working on padels and stuff took inspo for mechanism from this: 
   - few toggle buttons
   - few leds
   - few push buttons 
+
+---
+
+## 🗓️ June 23 2025 (Entery #9 PEDALSSSS DONEEE !  ) 
+finally i was able to complete the pedals !!!!!!! and also the code is almost complete btw i was gone for a long time have some problem but i am back. 
+
+
+![Screenshot 2025-06-23 184815](https://github.com/user-attachments/assets/fa4cd156-a0d7-4244-a482-7b70e6b651f5)
+
+
+### ✅ What I Did
+- completed rest of the desings and thier cad 
+- assembled all the designs and finished pedals mechanism. 
+- again used the older desings like potentiometer mechanism. 
+- code almost done but i will made a separate entry for it :) 
+
+### ⏱️ Time Spent
+~ 6.3 hours approx
+
+### 🚀 Next Up:
+- uloading the code after verifying few things. then schematics drawing. 
+
+---
