@@ -217,7 +217,7 @@ finally started working on padels and stuff took inspo for mechanism from this: 
 ## Here which material will be used where is mentioned 😤!
 
 ### Yoke: 
-- 2x 42*30*7 bearings for yoke holder
+- 2x 30x42x7mm bearings for yoke holder
 - mounting hubs 6mm  for potentiometer holder 
 - 2x potentiometer for recognising movements
 - 2x 8mm x 200mm Steel Rod for yoke movement
@@ -253,3 +253,24 @@ finally i was able to complete the pedals !!!!!!! and also the code is almost co
 - uloading the code after verifying few things. then schematics drawing. 
 
 ---
+## 🗓️ June 23 2025 (Entery #10 CODE completed  ) 
+I wrote the code verify it by AI to make sure it will work with potentiometer and buttons and for arduino micro. 
+
+
+### 🧠 How it works 
+- so basically potentiometer movement is devided and with the moment of potentiometer pitch and roll changes which changes the axis of the plane and allow it to move
+- also i found library for joy stick on github i have added its link at the top of the code so that it can be easily installed. 
+- also i mapped buttons to do the on off tasks that can be mapped in the game. 
+
+### ✅ What I Did
+- completed the code
+- use the codes of others to understand pretty much logic.
+
+### ⏱️ Time Spent
+~ 2 hours approx 
+
+### 🚀 Next Up:
+- Schematics, final BOM and then SUBMISSION 
+
+---
+
