@@ -52,23 +52,7 @@ Every step will be logged in `JOURNAL.md` for transparency and learning.
 
 ---
 
-## 💸 Bill of Materials (Est. $150)
 
-| Component | Qty | Est. Price |
-|----------|-----|-------------|
-| Arduino Micro | 1 | $15 |
-| 8mm x 200mm Steel Rods | 8 | $50 |
-| 30x42x7 Bearings | 6 | $25 |
-| LM8UU Linear Ball Bearings | 10-pack | $5.5 |
-| V-Slot Bearings | 12-pack | $9 |
-| 3/8 x 7/8 Bearings | 2 | $3 |
-| Potentiometers | 8 | $5 |
-| Switches & Buttons | Few | ~$10 |
-| 6mm Mounting Hubs | 2 | $12 |
-| Wiring, base, misc parts | - | ~$15 |
-| **3D Printing** | - | Covered by Hack Club (#printing-legion) |
-
----
 
 ## 🔗 Inspirations
 
@@ -100,6 +84,11 @@ Controller Render:
 
 ![image](https://github.com/user-attachments/assets/06932a88-223d-404a-89a9-cbdcd59c7c43)
 
+Pedal Render:
+
+![Screenshot 2025-06-23 184815](https://github.com/user-attachments/assets/b1300af3-02e4-41b1-bda1-7fb3514e63cf)
+
+
 > more coming soon :)
 
 ---
@@ -107,6 +96,24 @@ Controller Render:
 ## 🧾 License
 
 MIT — feel free to remix and build your own FlyIt Rig! Just don’t forget to share it back with the community 💛
+
+---
+## 💸 Bill of Materials (Est. $150)
+
+| Component | Qty | Est. Price |
+|----------|-----|-------------|
+| Arduino Micro | 1 | $15 |
+| 8mm x 200mm Steel Rods | 8 | $50 |
+| 30x42x7 Bearings | 6 | $25 |
+| LM8UU Linear Bearings 8mm*45mm| pack of 10 | $5.5 |
+| V-Slot Bearings | 1pack of 12 | $9 |
+| 3/8 x 7/8 Bearings | 2 | $3 |
+| Potentiometers | 8 | $5 |
+| Switches & Buttons | Few | ~$10 |
+| 6mm Mounting Hubs | 2 | $12 |
+| Wiring, base, misc parts | - | ~$15 |
+|Almunimum angle rods 200mm | 2 | $20 |
+| **3D Printing** | - | Covered by Hack Club (#printing-legion) |
 
 ---
 
