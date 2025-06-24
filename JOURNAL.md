@@ -1,4 +1,6 @@
-# 🛠️ JOURNAL.md
+# 🛠️ JOURNAL.md 
+
+# time spent : 50 hours approx 💀💀
 
 ## 🗓️ May 20, 2025 (started)
 
@@ -307,3 +309,24 @@ I wrote the code verify it by AI to make sure it will work with potentiometer an
 | 5V         | One side of all potentiometers              |
 | GND        | Other side of potentiometers and all buttons|
 
+
+--- 
+
+## 🗓️ June 25 2025 (Entery #11 DOne for submission ) 
+ffinally everything is assembled with the schematics and BOM. 
+
+![Screenshot 2025-06-25 010750](https://github.com/user-attachments/assets/025429a5-8797-4baf-ba63-14e84775763b)
+
+
+
+
+### ✅ What I Did
+- Completed everything now onto submission
+- made schematics for the switch and buttons and potentiometer
+- verify i have all the things available. 
+
+### ⏱️ Time Spent
+~ 1.5 hours approx
+
+### 🚀 Next Up:
+- submission then building irl. 
