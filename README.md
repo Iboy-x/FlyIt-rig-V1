@@ -89,7 +89,10 @@ Pedal Render:
 ![Screenshot 2025-06-23 184815](https://github.com/user-attachments/assets/b1300af3-02e4-41b1-bda1-7fb3514e63cf)
 
 
-> more coming soon :)
+### Schemtics 
+
+![Screenshot 2025-06-25 010750](https://github.com/user-attachments/assets/05186cd2-1e23-48a2-9734-a699c0f3d4c9)
+
 
 ---
 
